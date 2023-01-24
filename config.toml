@@ -1,4 +1,4 @@
-baseURL = "https://neckroo.github.io/labVeilleTech "
+baseURL = "https://neckroo.github.io/labVeilleTech"
 title = "Neib Ouakel"
 theme = "hugo-coder"
 languageCode = "en"
